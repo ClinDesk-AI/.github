@@ -13,4 +13,4 @@ The AI runs on-device on Apple Silicon. Patient messages, notes, and patient con
 
 Most of ClinDesk lives in private repos for now. Individual components will be open-sourced as they stabilize.
 
-Operated by ClinDesk LLC, a Wyoming limited liability company.
+Operated by ClinDesk LLC, a Wyoming limited liability company (30 N Gould St, STE R, Sheridan, WY 82801, USA).
